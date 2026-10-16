@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix CryptoPulse Pro - 6-Month Technical Analysis \u0026 Signal Radar",
+  "description": "Deep 6-month crypto market technical analysis, upcoming signals generator (Buy/Sell, Entry, Targets, Stop Loss) and custom risk money management calculator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
